@@ -3,7 +3,7 @@
 **Aspiring SOC Analyst** focused on *detection, triage, and incident response*. I build reproducible, hands‑on labs and document them like real SOC tickets—queries, logs, timelines, detections, and ATT&CK mapping.
 
 - 🎯 **Goal:** SOC Tier‑1 → Tier‑2 track
-- ✅ **Certs:** CompTIA Security+ | Blue Team Level 1 (BTL1)
+- ✅ **Certs:** CompTIA Security+ | Blue Team Level 1 (BTL1) | AZ-900
 - 🧪 **Method:** Reproducible labs + clean write‑ups (Scenario → What I Did → What I Learned → Why It Matters)
 
 ---
