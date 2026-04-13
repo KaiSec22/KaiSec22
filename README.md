@@ -70,6 +70,7 @@ This investigation emphasized impact assessment, timeline reconstruction, and de
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/kai-gallette/)
+
 Email: kgallette22@gmail.com
 
 ---
