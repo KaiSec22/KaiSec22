@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am an aspiring SOC Analyst focused on threat detection, incident investigation, and defensive security across endpoint and cloud environments.
+I am a Cybersecurity Analyst focused on threat detection, incident investigation, and defensive security across endpoint and cloud environments.
 
 My work is centered on understanding how malicious or suspicious activity unfolds, what controls or trust boundaries failed, and how organizations can improve detection coverage to identify similar behavior earlier in the attack lifecycle.
 
