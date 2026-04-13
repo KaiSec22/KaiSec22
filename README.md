@@ -32,17 +32,15 @@ I approach investigations with an emphasis on clarity, evidence-based analysis, 
 
 ## Highlighted Investigations
 
-### Unauthorized Tor Usage Threat Hunt  
+[### Unauthorized Tor Usage Threat Hunt](https://github.com/KaiSec22/Security-Projects/blob/main/Microsoft-Defender/Unauthorized-Tor-Usage/Unauthorized-Tor-Usage-Hunt.md)  
 **Microsoft Defender for Endpoint**  
-[View Full Investigation](https://github.com/KaiSec22/Security-Projects/blob/main/Microsoft-Defender/Unauthorized-Tor-Usage/Unauthorized-Tor-Usage-Hunt.md)
 
 Conducted a threat hunt in Microsoft Defender for Endpoint to identify and analyze unauthorized Tor usage within a controlled environment. Reviewed process execution, command-line activity, and network-related telemetry to trace the origin of Tor-related behavior and determine whether the activity reflected legitimate use or suspicious anonymized communication.
 
 This investigation focused on identifying detection opportunities for proxy and anonymization tooling, validating endpoint visibility, and documenting how potentially evasive outbound traffic can be surfaced through endpoint telemetry.
 
-### EmberForge Source Leak Threat Hunt  
+[### EmberForge Source Leak Threat Hunt](https://github.com/KaiSec22/Security-Projects/blob/main/Threat-Hunts/EmberForge-Source-Leak.md)  
 **Threat Hunting and Impact Assessment**  
-[View Full Investigation](https://github.com/KaiSec22/Security-Projects/blob/main/Threat-Hunts/EmberForge-Source-Leak.md)
 
 Performed a full-scope threat hunt following a simulated source code leak scenario involving the EmberForge platform. Reconstructed attacker activity across multiple stages of the incident, including access, credential exposure, data staging, and exfiltration, by correlating available artifacts and investigative findings.
 
