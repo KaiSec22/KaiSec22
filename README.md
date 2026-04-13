@@ -40,7 +40,6 @@ Conducted a threat hunt in Microsoft Defender for Endpoint to identify and analy
 This investigation focused on identifying detection opportunities for proxy and anonymization tooling, validating endpoint visibility, and documenting how potentially evasive outbound traffic can be surfaced through endpoint telemetry.
 
 
-
 ### [EmberForge Source Leak Threat Hunt](https://github.com/KaiSec22/Security-Projects/blob/main/Threat-Hunts/EmberForge-Source-Leak.md)  
 **Threat Hunting and Impact Assessment**  
 
