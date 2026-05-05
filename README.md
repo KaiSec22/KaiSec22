@@ -29,6 +29,7 @@ I approach investigations with an emphasis on clarity, evidence-based analysis, 
 </p>
 
 ---
+## [All Projects](https://github.com/KaiSec22/Security-Projects)
 
 ## Highlighted Investigations
 
