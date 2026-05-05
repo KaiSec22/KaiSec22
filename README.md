@@ -47,7 +47,7 @@ Performed a full-scope threat hunt following a simulated source code leak scenar
 
 This investigation emphasized impact assessment, timeline reconstruction, and defensive analysis to determine what information was exposed, how it moved through the environment, and what the incident revealed about detection and response gaps.
 
-## [All Projects](https://github.com/KaiSec22/Security-Projects)
+### [All Projects](https://github.com/KaiSec22/Security-Projects)
 ---
 
 ## Areas of Focus
